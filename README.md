@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<a href="https://github.com/zachmann">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=zachmann&show_icons=true&theme=merko&count_private=true" />
+</a>
+<a href="https://github.com/zachmann">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachmann&layout=compact&show_icons=true&theme=merko" />
+</a>
+
 
 <!--
 **zachmann/zachmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
