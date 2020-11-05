@@ -1,9 +1,9 @@
 
 <a href="https://github.com/zachmann">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=zachmann&show_icons=true&theme=merko&count_private=true" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=zachmann&show_icons=true&theme=merko&count_private=true" />
 </a>
 <a href="https://github.com/zachmann">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachmann&layout=compact&show_icons=true&theme=merko" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachmann&layout=compact&show_icons=true&theme=merko" />
 </a>
 
 
