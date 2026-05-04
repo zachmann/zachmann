@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=zachmann&theme=onedark&title=LongTimeUser,Organizations,Commits,Issues,PullRequest,Experience,Reviews
+)](https://github.com/zachmann)
+
 
 <a href="https://github.com/zachmann">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=zachmann&show_icons=true&theme=merko&count_private=true&include_all_commits=true" />
@@ -6,6 +9,8 @@
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachmann&layout=compact&show_icons=true&theme=merko" />
 </a>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zachmann&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 **zachmann/zachmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
